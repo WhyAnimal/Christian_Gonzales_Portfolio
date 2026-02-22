@@ -1,0 +1,32 @@
+More Infomation about each weapon effect and design
+
+FireWall 
+-was a basic Area of effect weapon damaging enemies whenever they enter within a certain radius around the player
+
+YCircle360 (aka AntiVirus Shot)
+- Shots projectiles Horizontialy from the player that is symmetrical on both sides with each projectiles being equal distance in angle from each other  
+
+Force Quit Program (aka FQP)
+- It selects a random n amount of enemeies with a higher weapon level selecting more enemies and killing them after a few seconds 	
+
+Blast
+- A simple lazar that shoots a lazar in the last direction the player was moving 
+
+Queue Overflow
+- Throws overflowing projectiles (aka files) upwards and the projectiles gets afffected by gavity falling slowing it down then falling downwards damaging enemies in its path
+
+Binary Bomb
+- Places bombs around the above the player similar to the visualation of a binary tree with the player being the root node in a similar look to the ASCII art below
+
+B- Bomb
+P- Player
+
+B     B  B     B
+ \   /    \   /
+   B        B
+    \      /
+       P    
+
+Virtual Os Bomb (aka VOB)
+- Will throw out a small bomb that looks similar but different from the player that will attrack enemeies to it before exploding similar to the Monkey Bomb in COD Zombies with the player not taking damage whilie the bomb is in play
+

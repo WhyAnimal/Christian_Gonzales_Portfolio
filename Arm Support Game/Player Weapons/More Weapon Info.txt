@@ -28,5 +28,6 @@ B     B  B     B
        P    
 
 Virtual Os Bomb (aka VOB)
-- Will throw out a small bomb that looks similar but different from the player that will attrack enemeies to it before exploding similar to the Monkey Bomb in COD Zombies with the player not taking damage whilie the bomb is in play
+- Will throw out a small bomb that looks similar but different from the player that will attrack enemeies to it before exploding 
+  similar to the Monkey Bomb in COD Zombies with the player not taking damage whilie the bomb is in play
 

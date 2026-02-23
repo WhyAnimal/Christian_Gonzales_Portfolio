@@ -1,1 +1,4 @@
-The system of creating the menu and dealing with telling which weapons to level up. I made it so as long as a weapon is done the only thing you need to do was tell the WeaponlevelUpEvent json that the weapon existed and it did everything else by itself so you wouldnt have to change any code to get something to work.
+The system of creating the menu and dealing with telling which weapons to level up. 
+I made it so as long as a weapon is done the only thing you need to do was tell the 
+WeaponlevelUpEvent json that the weapon existed and it did everything else by itself 
+so you wouldnt have to change any code to get something to work.

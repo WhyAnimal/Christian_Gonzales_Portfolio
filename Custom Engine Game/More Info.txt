@@ -1,0 +1,7 @@
+This is my Sophomore game project where i work in a team of 5 where we builded a game engine and created a game within said engine. 
+
+My main task with creation of the engine was creating tooling using Dear ImGui to create a way to see information about a object with game to make bug hunting and fixing, designing and creation as easy as possible.
+
+During creation of the game i was in charge of system design, creation of weapon, weapon level up system, and balancing of enemies and weapons. 
+
+I added code snippets for the Weapon level Up system and each weapon in the game

@@ -1,0 +1,17 @@
+Project Description
+	This Project was a was to make a quick clicker game using turn based instead of real time. With each turn being a player input action.
+
+
+
+
+Explanation of the Code
+
+	Random AutoPlay
+		The Random AutoPlay plays though the game with its action being fully random between each viable button option until it makes it to the end of the game.
+
+	Smart AutoPlay
+		I created a probability table with for each section of the game and using telemetry for a start then changing the value to balanced it out to make it player similar to a player. With the current balance of the Smart AutoPlay I made it play better than any player i have had playtest tested it so far. With a slider under the button to turn it on to control how smart to make the AutoPlay from 100% being full smartness and 0% being full Random
+
+	Fast AutoPlay
+		Is a copy of the Smart AutoPlay but instead of stopping at the end of the game it stops itself at the end of each section which made it easier to fine tune the Smart AutoPlay to make it as good as I was able to make it.
+
